@@ -32,7 +32,7 @@ export default function Home() {
         </style>
       </head>
       <body>
-        <h1>Terms and Conditions for App Collecting Firebase Statistics Data:</h1>
+        <h1>Terms and Conditions :</h1>
         <ol>
           <li><strong>Agreement:</strong> By using our app and allowing Firebase statistics data collection, you agree to comply with these terms and conditions.</li>
           <li><strong>Data Collection:</strong> Our app utilizes Firebase services to collect non-personal statistical data, including device information, app usage statistics, and performance metrics.</li>
@@ -45,7 +45,7 @@ export default function Home() {
           <li><strong>Changes to Terms:</strong> We reserve the right to modify these terms and conditions at any time. Users will be notified of any changes, and continued use of our app constitutes acceptance of the modified terms.</li>
           <li><strong>Termination:</strong> We reserve the right to terminate or suspend access to our app and Firebase services at any time, with or without cause, and without prior notice.</li>
           <li><strong>Governing Law:</strong> These terms and conditions are governed by the laws of the jurisdiction where our app operates.</li>
-          <li><strong>Contact Information:</strong> For questions or concerns regarding these terms and conditions, users may contact our support team.</li>
+          <li><strong>Contact Information:</strong> For questions or concerns regarding these terms and conditions, users may contact this email : elsenalmasli@gmail.com.</li>
         </ol>
         <p>By using our app and allowing Firebase statistics data collection, you acknowledge that you have read, understood, and agree to abide by these terms and conditions.</p>
       </body>
