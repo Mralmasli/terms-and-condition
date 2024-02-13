@@ -4,8 +4,6 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -46,7 +44,6 @@ export default function Home() {
     </ol>
     <p>By using our app and allowing Firebase statistics data collection, you acknowledge that you have read, understood, and agree to abide by these terms and conditions.</p>
 </body>
-</html>
 
   )
 }
