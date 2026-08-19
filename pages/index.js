@@ -11,7 +11,7 @@ export default function Home() {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy - 3Sual</title>
-    <style>
+    <style>{`
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
             line-height: 1.6;
@@ -50,7 +50,7 @@ export default function Home() {
             border-left: 4px solid #2c3e50;
             margin-top: 10px;
         }
-    </style>
+    `}</style>
 </head>
 <body>
 
